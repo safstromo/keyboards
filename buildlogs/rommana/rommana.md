@@ -33,7 +33,7 @@ Step 1: Solder the diodes and the hotswap sockets to the flex PCBs.
 
 ![](rommana_flex.jpg)
 
-Step 2: Cut off the third switch pcb from 4 of the flex pcbs. This is the thumb cluster and the columns with 2 switches.
+Step 2: Cut off the third switch pcb from 4 of the flex pcbs. This is for the thumb cluster and the columns with 2 switches.
 
 ![](rommana_flex_cut.jpg)
 
@@ -53,7 +53,7 @@ Step 6: Remove the controller from the PCB and solder the pogo pins to the MCU h
 Step 7: _This step is not needed in the current version of the MCU holder._
 In my version of t...he MCU holder the bat+ was bypassing the slide switch. I had to cut the trace and solder a bodge wire to the switch. Use a exacto knife with a sharp blade to cut the trace on the purble line. Put the blade point on the trace and use a drilling motion to cut it. Use a multimeter to check if the trace is cut. Then solder a wire from the switch to the bat+ pad.
 
-![](rommana_trace_cut.jpg)
+![](rommana_trace_cut.png)
 ![](rommana_slide_switch_bodge.jpg)
 
 Step 8: Solder wires to the flex pcbs. You need to solder 4 wires to the bottom switch for the columns with 3 switches. For the columns with 2 switches you need to solder 3 wires, starting from Col to R1 on the bottom switch. For the thumbs only 2 wires are needed, Col and R2.
