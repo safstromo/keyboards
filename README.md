@@ -7,6 +7,8 @@ Here you will find my keymaps and some build guides.
 
 ![kbcollage](./pics/kbcollage.jpg)
 
+[Rommana build log](https://github.com/safstromo/keyboards/blob/main/buildlogs/rommana/rommana.md)
+
 ## Keymaps
 
 ![hummingbird_keymap](https://github.com/safstromo/zmk/assets/56272436/c748e135-9f2a-46a0-a737-2d3907401a75)
