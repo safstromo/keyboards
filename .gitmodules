@@ -1,0 +1,6 @@
+[submodule "zmk"]
+	path = zmk
+	url = git@github.com:safstromo/zmk.git
+[submodule "qmk_firmware"]
+	path = qmk_firmware
+	url = git@github.com:safstromo/qmk_firmware.git
